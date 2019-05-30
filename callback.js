@@ -1,4 +1,4 @@
-var years = [1990, 1985, 1987, 1996, 2003, 1982];
+var years = [1990, 1985, 1987, 1996, 2003, 1982, 1983];
 
 // fn is a callback function. A callback is a function that is to be executed
 // after another function has finished executing — hence the name ‘call back’
